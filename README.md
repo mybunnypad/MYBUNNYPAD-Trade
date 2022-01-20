@@ -1,2 +1,2 @@
-# My BunnyPad-Trade
-My BunnyPad (BUNNY) Trade Contract Source Code
+# MYBUNNYPAD-Trade
+MYBUNNYPAD (BUNNY) Trade Contract Source Code
